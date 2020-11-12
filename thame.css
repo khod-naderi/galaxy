@@ -1,0 +1,50 @@
+h1
+{
+	color:white;
+	font-size:24px;
+	font-weight=border;
+	background-color:black;
+
+}
+#h1
+{
+	font-size:64px;
+	position:fixed;
+	top:0;
+	left:550;
+}
+img
+{
+	float:left;
+	width:600;
+	height:600;
+}
+P
+{
+	font-size:18;
+	font-weight:bold;
+	color:white;
+	background-color:black;
+}
+#Home
+{
+	position:fixed;
+	width:910;
+	height:503;
+	top:200;
+	left:200;
+}
+body
+{
+	background-color:black;
+}
+#p1
+{
+	position:fixed;
+	font-size:30;
+	font-weight:bold;
+	color:red;
+	background-color:black;
+	top:100;
+	left:470;
+}
