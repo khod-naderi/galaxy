@@ -7,6 +7,6 @@
 <b><p>برنامه تحقیق از سیارات کهکشان</p></b>
 ساده سازی شده برای درک دانش اموزان 
 <br />
-<a href="https://naderi8118.github.io/galaxy/">رفتن به سایت</a>
+<a href="https://khod-naderi.github.io/galaxy/">رفتن به سایت</a>
 </body>
 </html>
